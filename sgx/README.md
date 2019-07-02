@@ -6,7 +6,7 @@ crypto operations within the Trusted Execution Environment.
 
 ###  
 
-See “SGX Token for SoftHSM Architecture and API Specification.docx” for
+See “SGX Token for SoftHSM Architecture and API Specification.pdf” for
 information on what SoftHSM is, what is and how to build a Token library, and
 how to use the SGX Token library.
 
